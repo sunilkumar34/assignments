@@ -22,8 +22,4 @@ class Pointer(object):
 		print(self.y)
 
 
-
-#adding a comment to check my git history
-
-
 #adding a new comment
