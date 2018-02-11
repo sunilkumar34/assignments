@@ -1,7 +1,6 @@
 class Pointer(object):
 
 	def __init__(self,x,y):
-		print("hello")
 		self.x=x
 		self.y=y
 
@@ -20,6 +19,3 @@ class Pointer(object):
 	def checkpos(self):
 		print(self.x)
 		print(self.y)
-
-
-#adding a new comment
