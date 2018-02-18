@@ -19,3 +19,4 @@ class Pointer(object):
 	def checkpos(self):
 		print(self.x)
 		print(self.y)
+		print("Hello")
